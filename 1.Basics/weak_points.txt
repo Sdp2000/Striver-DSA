@@ -1,0 +1,1 @@
+Pattern problem 22 , rusty recursion and euclidean algorithm.
