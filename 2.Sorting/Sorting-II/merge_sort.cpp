@@ -44,7 +44,7 @@ void mergeSort(vector<int> &v,int l,int r){
 
 
 int main(){
-    vector<int> v={4,1,9,1,12,6,0};
+    vector<int> v={6,3,9,6,1,2,4};
     for(auto i:v)
         cout<<i<<" ";
 
